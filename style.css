@@ -1,0 +1,51 @@
+/* Rectangle 1 */
+
+.parent-box {
+    position: absolute;
+    width: 339px;
+    height: 339px;
+    background: #C4C4C4;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.child-box1 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: red;
+}
+
+.child-box2 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: rgb(141, 19, 197);
+    margin-left: 239px;
+}
+
+.child-box3 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: #05c425;
+    margin-top: 240px;
+}
+
+.child-box4 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: orange;
+    margin-left: 239px;
+    margin-top: 239px;
+}
+
+.child-box5 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: maroon;
+    margin-top: 119.5px;
+    margin-left: 119.5px;
+}
